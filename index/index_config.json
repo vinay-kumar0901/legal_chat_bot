@@ -1,0 +1,6 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "record_count": 1043,
+  "embedding_dimension": 384,
+  "source_file": "dataset_cleaned.csv"
+}

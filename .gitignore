@@ -1,0 +1,10 @@
+.env
+*.json
+!index/index_config.json
+!index/metadata.json
+*service-account*.json
+firebase-adminsdk*.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
